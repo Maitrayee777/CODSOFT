@@ -3,7 +3,7 @@ These are python projects which I have done while interning with Codsoft as a Py
 These programs are done on Visual Studio Code and can be runned on online compiler as well.
 
 ## Tasks 
-This file includes 4 python programming task which were given during internship.
+This file includes 4 python programming task which were given during virtual internship.
 
 ### Task 1-
 The provided code defines a To_Do_List class with methods to add, view, update, and delete tasks. 
